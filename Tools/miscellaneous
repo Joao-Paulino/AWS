@@ -2,4 +2,5 @@ CPU simulation workloud
 >_ yes > /dev/null &
 
 #Problem mount efs on linux
+#"mount.nfs4 connection reset by peer blah, blah,blah..."
 Add TCP 2049   <SECURITY_GROUP_ID_OF_EFS>
