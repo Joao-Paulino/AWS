@@ -1,2 +1,5 @@
 CPU simulation workloud
 >_ yes > /dev/null &
+
+#Problem mount efs on linux
+Add TCP 2049   <SECURITY_GROUP_ID_OF_EFS>
