@@ -1,4 +1,4 @@
-CPU simulation workloud
+#CPU simulation workloud
 >_ yes > /dev/null &
 
 #Problem mount efs on linux
