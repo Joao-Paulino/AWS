@@ -4,4 +4,4 @@ yum install httpd -y
 service httpd start
 chkconfig httpd on
 cd /var/www/html
-echo "<html><h1>Site LB OK</h1></html>
+echo "<html><h1>Site LB OK</h1></html>"  > index.html
